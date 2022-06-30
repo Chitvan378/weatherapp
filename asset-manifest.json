@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chitvan378/weatherapp.github.io.git/static/css/main.fbbdb519.css",
+    "main.js": "/Chitvan378/weatherapp.github.io.git/static/js/main.c2ac65e2.js",
+    "index.html": "/Chitvan378/weatherapp.github.io.git/index.html",
+    "main.fbbdb519.css.map": "/Chitvan378/weatherapp.github.io.git/static/css/main.fbbdb519.css.map",
+    "main.c2ac65e2.js.map": "/Chitvan378/weatherapp.github.io.git/static/js/main.c2ac65e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbbdb519.css",
+    "static/js/main.c2ac65e2.js"
+  ]
+}
