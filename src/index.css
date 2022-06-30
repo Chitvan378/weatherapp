@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.searchoptions{
+    width: 70%;
+    display: flex;
+}
+.searchoptions input{
+    width: 100%;
+}
+
+.card-image{
+    height: 100px;
+    align-items:center;
+}
